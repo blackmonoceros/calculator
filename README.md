@@ -1,1 +1,1 @@
-simply caculator
+simply calculator
